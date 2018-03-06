@@ -110,7 +110,7 @@
   "browserslist": [
     "> 1%",
     "last 2 versions",
-    "not ie <= 8"
+    "ie >= 9”
   ],
   "publishConfig": {
     "registry": "http://nexus.g2work.com/repository/dajia-npm-group/"
